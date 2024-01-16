@@ -1,0 +1,12 @@
+# fastapi
+# langchain
+# openai==0.28
+# pydantic
+# uvicorn[standard]
+# python-dotenv
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+matplotlib-inline
